@@ -1,0 +1,9 @@
+server:
+    origin: http://nestjs-tm-spa.s3-website.eu-north-1.amazonaws.com
+
+db:
+    synchronize: false
+
+jwt:
+    secret: 'topSecret77'
+    expiresIn: 36000

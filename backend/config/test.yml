@@ -1,0 +1,10 @@
+db:
+    host: 'localhost'
+    username: 'postgres'
+    password: 'oij0'
+    synchronize: true
+    database: 'task_management_test'
+
+jwt:
+    secret: 'topSecret77'
+    expiresIn: 3600000
